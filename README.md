@@ -1,7 +1,7 @@
 ### Hi there 👋
  
 Hello World 👋, I'm Samuel, but you can call me **Sam**.
-I'm a Back-end Spring Framework Developer from Zimbabwe 🇿🇼 with **9 years of coding** 🧐.
+I'm a Back-end Spring Framework Developer from Zimbabwe 🇿🇼 with **16 years of coding** 🧐.
 
 **A book lover** 📕, **an aspiring guitar player** 🎸 and a good **video-game player** 🎮 an **Arsenal** 🗡 fan.
 
