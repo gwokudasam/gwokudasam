@@ -3,11 +3,12 @@
 Hello World 👋, I'm Samuel, but you can call me **Sam**.
 I'm a Back-end Spring Framework Developer from Zimbabwe 🇿🇼 with **16 years of coding** 🧐.
 
-**A book lover** 📕, **an aspiring guitar player** 🎸 and a good **video-game player** 🎮 an **Arsenal** 🗡 fan.
+**A book lover** 📕, **an aspiring guitar player** 🎸 a good **video-game player** 🎮 and an **Arsenal** 🗡 fan.
 
 * 💫 Always aiming at **usability** and **code performance** at all costs.
 * 👽 Learning any technology that appears on my way.
 * 📷 I also love learning about photography
+* 👽 I love to use the latest cutting edge tools and technologies
 
 ----
 
