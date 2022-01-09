@@ -1,3 +1,13 @@
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-gwokuda-samsoftx/)](https://www.linkedin.com/in/samuel-gwokuda-samsoftx/)
+[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=http://wa.me/5545984289149)](http://wa.me/263773452222)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gwokudasam@gmail.com)](mailto:gwokudasam@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/gwokudasam)](https://twitter.com/gwokudasam)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/samsoftx)](https://www.instagram.com/samsoftx)
+
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=gwokudasam.visitor-badge)](https://github.com/gwokudasam)
+[![GitHub followers](https://img.shields.io/github/followers/gwokudasam.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/gwokudasam?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/gwokudasam/gwokudasam.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gwokudasam/gwokudasam/stargazers/)
+
 ### Hi there 👋
  
 Hello World 👋, I'm Samuel, but you can call me **Sam**.
