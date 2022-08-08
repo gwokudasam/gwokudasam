@@ -19,6 +19,7 @@ I'm a Back-end Spring Framework Developer from Zimbabwe 🇿🇼 with **16 years
 * 👽 Learning any technology that appears on my way.
 * 📷 I also love learning about photography
 * 👽 I love to use the latest cutting edge tools and technologies
+* 😉 Married to Java, in love with Kotlin
 
 ----
 
