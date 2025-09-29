@@ -13,7 +13,7 @@
 Hello World 👋, I'm Samuel, but you can call me **Sam**.
 I'm a Back-end Spring Framework Developer from Zimbabwe 🇿🇼 with **15 years of coding** 🧐.
 
-Currently a Backend Software Enginner at Backbase R&D
+Currently a Backend Software Engineer at Backbase R&D
 
 **A book lover** 📕, **an aspiring guitar player** 🎸 a good **video-game player** 🎮 and an **Arsenal** 🗡 fan.
 
